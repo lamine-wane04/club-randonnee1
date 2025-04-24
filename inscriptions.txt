@@ -1,0 +1,18 @@
+Région: Dakar
+Club: Dakar Plateau
+Nom Complet: mohamadou lamine wane
+Âge: 23 ans
+Genre: Homme
+
+Région: Dakar
+Club: Ndielben
+Nom Complet: lamine ndiaye
+Âge: 27 ans
+Genre: Homme
+
+Région: Diourbel
+Club: Club Touba
+Nom Complet: mohamadou lamine wane
+Âge: 12 ans
+Genre: Homme
+
